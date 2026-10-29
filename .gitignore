@@ -40,3 +40,7 @@ lerna-debug.log*
 *.tmp
 *.temp
 
+# External or nested repositories
+OmniRoute/
+
+
